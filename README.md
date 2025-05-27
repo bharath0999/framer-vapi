@@ -1,10 +1,13 @@
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
+
 # Framer Vapi Proxy for Render
 
 A free, secure Node.js proxy to keep your Vapi API key secret when using Framer or any frontend tool.
 
 ## One-click Deploy
 
-[Deploy to Render] (https://render.com/images/deploy-to-render-button.svg)] (https://render.com/deploy)
+
 
 ## Setup
 
